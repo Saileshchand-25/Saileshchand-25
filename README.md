@@ -3,7 +3,7 @@
 ---
 
 ##  About Me
-🎓 B.Tech in Computer Science – Sharda University  
+🎓 BCA.Computer Application – Sharda University  
 🌐 Full Stack MERN Developer (MongoDB, Express.js, React, Node.js)  
 💻 Skilled in: **HTML5 · CSS3 · JavaScript · React.js**  
 ✨ Passionate about building responsive, user-friendly web applications with clean, maintainable code.  
