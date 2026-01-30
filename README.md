@@ -5,9 +5,8 @@
 ---
 
 # **Sailesh Chand**
-### Full Stack MERN Developer
-Crafting scalable systems with MongoDB, Express.js, React, and Node.js
-
+### Frontend Developer
+Crafting scalable, responsive, and user-centric frontend experiences.
 ---
 
 ## 🚀 Connect with Me
