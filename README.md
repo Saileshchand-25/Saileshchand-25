@@ -37,7 +37,7 @@ Crafting scalable, responsive, and user-centric frontend experiences.
 ## 🧑‍💼 About Me
 
 - 🎓 BCA.Computer Application – Sharda University
-- 🌐 Full Stack MERN Developer | HTML | CSS | JavaScript | React.js
+- 🌐 Frontend Developer | HTML | CSS | JavaScript | React.js
 - ✨ Passionate about clean code, scalable systems, and modern UI/UX
 - 🤝 Open to collaboration and freelance opportunities in JavaScript/React/Node-based solutions
 - 📚 Always learning and building with purpose
