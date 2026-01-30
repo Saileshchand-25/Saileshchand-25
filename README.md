@@ -13,7 +13,7 @@ Crafting scalable, responsive, and user-centric frontend experiences.
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sailesh-chand-b521502bb/) 
 [![GitHub](https://img.shields.io/badge/GITHUB-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Saileshchand-25) 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-%23FF5722.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://sailesh-chand.vercel.app/) 
-[![Resume](https://img.shields.io/badge/RESUME-%23FFD700.svg?style=for-the-badge)](sailesh.pdf)
+[![Resume](https://img.shields.io/badge/RESUME-%23FFD700.svg?style=for-the-badge)](https://github.com/Saileshchand-25/Resume/blob/main/sailesh.pdf)
 
 ---
 
